@@ -1,4 +1,4 @@
-de.bsvrz.sys.funclib.operatingMessage v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.operatingMessage.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.operatingMessage)
+de.bsvrz.sys.funclib.operatingMessage v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.operatingMessage.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.operatingMessage)
 ============================================
 
 
